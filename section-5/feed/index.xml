@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for classroom	</title>
-	<atom:link href="https://mhickmanf.github.io/classroom/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mhickmanf.github.io/classroom/</link>
+	Comments on: Section 5: Loops	</title>
+	<atom:link href="https://mhickmanf.github.io/classroom/section-5/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mhickmanf.github.io/classroom/section-5/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 05 Oct 2022 16:38:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Oct 2022 16:38:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
