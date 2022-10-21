@@ -12,7 +12,7 @@
 	<atom:link href="https://mhickmanf.github.io/classroom/author/mlhickman/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mhickmanf.github.io/classroom/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 13 Oct 2022 02:11:11 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Oct 2022 16:18:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -164,13 +164,13 @@
 				<category><![CDATA[Python I]]></category>
 		<guid isPermaLink="false">https://mhickmanf.github.io/classroom/?p=1752</guid>
 
-					<description><![CDATA[While Loops With the while loop we can execute a set of statements as long as a condition is true.]]></description>
+					<description><![CDATA[While Loops With the while loop, we can execute a set of statements as long as a condition is true. With the for loop, we can iterate over containers.]]></description>
 										<content:encoded><![CDATA[
 <h2>While Loops</h2>
 
 
 
-<p>With the while loop we can execute a set of statements as long as a condition is true.</p>
+<p>With the while loop, we can execute a set of statements as long as a condition is true.</p>
 
 
 
@@ -188,6 +188,32 @@
 <div class="wp-container-4 wp-block-column">
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="While Loops" width="1200" height="675" src="https://www.youtube.com/embed/PanRcDzTqjU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+</div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>With the for loop, we can iterate over containers.</p>
+
+
+
+<div class="wp-container-8 wp-block-columns">
+<div class="wp-container-6 wp-block-column">
+
+<iframe loading="lazy" src="https://trinket.io/embed/python/898219de7d?runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</div>
+
+
+
+<div class="wp-container-7 wp-block-column">
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="For Loops | CSCI 135 | Python 1" width="1200" height="675" src="https://www.youtube.com/embed/k4qn8fr9mV0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
 </div>
 </div>

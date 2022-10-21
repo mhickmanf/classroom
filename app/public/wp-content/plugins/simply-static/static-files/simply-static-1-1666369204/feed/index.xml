@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>classroom</title>
+	<atom:link href="https://mhickmanf.github.io/classroom/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mhickmanf.github.io/classroom/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 21 Oct 2022 16:18:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://mhickmanf.github.io/classroom/wp-content/uploads/2022/10/cropped-icon-symbol-free-image-2141485-32x32.png</url>
+	<title>classroom</title>
+	<link>https://mhickmanf.github.io/classroom/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How the Web Works</title>
+		<link>https://mhickmanf.github.io/classroom/how-the-web-works/</link>
+					<comments>https://mhickmanf.github.io/classroom/how-the-web-works/#respond</comments>
+		
+		<dc:creator><![CDATA[mlhickman]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 02:10:51 +0000</pubDate>
+				<category><![CDATA[Web Development]]></category>
+		<guid isPermaLink="false">https://mhickmanf.github.io/classroom/?p=1768</guid>
+
+					<description><![CDATA[First, you need to upload your local files to a webserver. We use Filezilla to upload it to the ccuresearch server. Once you have a webpage hosted on a server, we can use developer tools in Chrome to analyze the pages.]]></description>
+										<content:encoded><![CDATA[
+<p>First, you need to upload your local files to a webserver. We use Filezilla to upload it to the ccuresearch server.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe title="Uploading to a Web Server | CSCI 120" width="1200" height="675" src="https://www.youtube.com/embed/OQQL-xlrfD8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p></p>
+
+
+
+<p>Once you have a webpage hosted on a server, we can use developer tools in Chrome to analyze the pages.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="How the Web Works | CSCI 120 | Section 4" width="1200" height="675" src="https://www.youtube.com/embed/nae-4LoHZIM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mhickmanf.github.io/classroom/how-the-web-works/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HTML Forms</title>
+		<link>https://mhickmanf.github.io/classroom/html-forms/</link>
+		
+		<dc:creator><![CDATA[mlhickman]]></dc:creator>
+		<pubDate>Fri, 07 Oct 2022 01:21:55 +0000</pubDate>
+				<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Web Development]]></category>
+		<guid isPermaLink="false">https://mhickmanf.github.io/classroom/?p=1763</guid>
+
+					<description><![CDATA[An HTML form is used to collect user input. The user input is most often sent to a server for processing.]]></description>
+										<content:encoded><![CDATA[
+<p>An HTML form is used to collect user input. The user input is most often sent to a server for processing.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="HTML Forms" width="1200" height="675" src="https://www.youtube.com/embed/NWW1wHHNGWk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p></p>
+
+
+
+<div class="wp-container-1 wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.w3schools.com/html/html_forms.asp">Learn More</a></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HTML Tables</title>
+		<link>https://mhickmanf.github.io/classroom/html-tables/</link>
+		
+		<dc:creator><![CDATA[mlhickman]]></dc:creator>
+		<pubDate>Fri, 07 Oct 2022 01:18:59 +0000</pubDate>
+				<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Web Development]]></category>
+		<guid isPermaLink="false">https://mhickmanf.github.io/classroom/?p=1760</guid>
+
+					<description><![CDATA[HTML tables allow web developers to arrange data into rows and columns.]]></description>
+										<content:encoded><![CDATA[
+<p>HTML tables allow web developers to arrange data into rows and columns.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="HTML Tables" width="1200" height="675" src="https://www.youtube.com/embed/VeEtpP32OdY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p></p>
+
+
+
+<div class="wp-container-2 wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.w3schools.com/html/html_tables.asp">Learn More</a></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Section 5: Loops</title>
+		<link>https://mhickmanf.github.io/classroom/section-5/</link>
+		
+		<dc:creator><![CDATA[mlhickman]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 16:28:50 +0000</pubDate>
+				<category><![CDATA[Python I]]></category>
+		<guid isPermaLink="false">https://mhickmanf.github.io/classroom/?p=1752</guid>
+
+					<description><![CDATA[While Loops With the while loop, we can execute a set of statements as long as a condition is true. With the for loop, we can iterate over containers.]]></description>
+										<content:encoded><![CDATA[
+<h2>While Loops</h2>
+
+
+
+<p>With the while loop, we can execute a set of statements as long as a condition is true.</p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-container-5 wp-block-columns">
+<div class="wp-container-3 wp-block-column">
+<iframe loading="lazy" src="https://trinket.io/embed/python/821a5bd2c6" marginwidth="0" marginheight="0" allowfullscreen="" width="100%" height="356" frameborder="0"></iframe>
+</div>
+
+
+
+<div class="wp-container-4 wp-block-column">
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="While Loops" width="1200" height="675" src="https://www.youtube.com/embed/PanRcDzTqjU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+</div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>With the for loop, we can iterate over containers.</p>
+
+
+
+<div class="wp-container-8 wp-block-columns">
+<div class="wp-container-6 wp-block-column">
+
+<iframe loading="lazy" src="https://trinket.io/embed/python/898219de7d?runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</div>
+
+
+
+<div class="wp-container-7 wp-block-column">
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="For Loops | CSCI 135 | Python 1" width="1200" height="675" src="https://www.youtube.com/embed/k4qn8fr9mV0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Section 1: Print(), Variables, and Data Types</title>
+		<link>https://mhickmanf.github.io/classroom/section-1/</link>
+		
+		<dc:creator><![CDATA[mlhickman]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 15:53:44 +0000</pubDate>
+				<category><![CDATA[Python I]]></category>
+		<category><![CDATA[mutability]]></category>
+		<category><![CDATA[objects]]></category>
+		<category><![CDATA[print()]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[variables]]></category>
+		<guid isPermaLink="false">https://mhickmanf.github.io/classroom/?p=1747</guid>
+
+					<description><![CDATA[Module Learning Outcomes Explain Python Programming Demonstrate Basic Problem Solving Skills Compare and Contrast Objects, Variables, and Data Types Explain the Concept of Mutability Print( ) Function Readability Errors Advanced Print Objects Variables Expressions Mutability]]></description>
+										<content:encoded><![CDATA[
+<h4><strong><u>Module Learning Outcomes</u></strong></h4>
+
+
+
+<ul><li>Explain Python Programming</li><li>Demonstrate Basic Problem Solving Skills</li><li>Compare and Contrast Objects, Variables, and Data Types</li><li>Explain the Concept of Mutability</li></ul>
+
+
+
+<p></p>
+
+
+
+<h2>Print( ) Function</h2>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="1 - Print" width="1200" height="675" src="https://www.youtube.com/embed/u4RfZDL0dU4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<h2>Readability</h2>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="2  - Readability" width="1200" height="675" src="https://www.youtube.com/embed/hCdkgMXq1B8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<h2>Errors</h2>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="3  - Errors" width="1200" height="675" src="https://www.youtube.com/embed/UsUzKvdSPZs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<h2>Advanced Print</h2>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="4 - Advanced Print" width="1200" height="675" src="https://www.youtube.com/embed/daCcrFS8P3A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<h2>Objects</h2>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="5 - Objects" width="1200" height="675" src="https://www.youtube.com/embed/-fGVQHjaOUM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<h2>Variables</h2>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="6 - Variables" width="1200" height="675" src="https://www.youtube.com/embed/_wCF3xRt5qU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<h2>Expressions</h2>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="7 - Expressions" width="1200" height="675" src="https://www.youtube.com/embed/dn3A7sSjZZY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<h2>Mutability</h2>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="8 - Mutability" width="1200" height="675" src="https://www.youtube.com/embed/IFBUo5tOngI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
